@@ -1,0 +1,27 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(4, 1, 0, 0),
+    prodvers=(4, 1, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo([
+      StringTable('080404b0', [
+        StringStruct('CompanyName', 'LogicLab Team'),
+        StringStruct('FileDescription', 'LogicLab 可视化数字逻辑仿真与教学平台'),
+        StringStruct('FileVersion', '4.1.0'),
+        StringStruct('InternalName', 'LogicLab'),
+        StringStruct('LegalCopyright', 'Copyright (c) 2026 LogicLab Team. MIT License.'),
+        StringStruct('OriginalFilename', 'LogicLab.exe'),
+        StringStruct('ProductName', 'LogicLab'),
+        StringStruct('ProductVersion', '4.1.0')
+      ])
+    ]),
+    VarFileInfo([VarStruct('Translation', [2052, 1200])])
+  ]
+)
